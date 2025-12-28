@@ -7,3 +7,46 @@
 2025-12-27 00:36:19,205 - INFO - Ingestion Completeed Successfully
 2025-12-27 00:36:19,231 - INFO - 
 Total time taken: 1.8024387955665588 minutes
+2025-12-28 16:02:12,615 - INFO - Ingesting purchases.csv in db
+2025-12-28 16:02:18,201 - INFO - Creating Vendor Summary Table...
+2025-12-28 16:02:18,202 - INFO - Vendor summary created in 0.0 seconds
+2025-12-28 16:02:18,202 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-28 16:02:18,202 - INFO - Cleaning Data...
+2025-12-28 16:02:18,203 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalesToPurchaseRatio]
+Index: []
+2025-12-28 16:02:18,203 - INFO - Ingesting data...
+2025-12-28 16:02:18,205 - INFO - Completed successfully
+2025-12-28 16:02:41,556 - INFO - Creating Vendor Summary Table...
+2025-12-28 16:02:41,557 - INFO - Vendor summary created in 0.0 seconds
+2025-12-28 16:02:41,557 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-28 16:02:41,557 - INFO - Cleaning Data...
+2025-12-28 16:02:41,558 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalesToPurchaseRatio]
+Index: []
+2025-12-28 16:02:41,558 - INFO - Ingesting data...
+2025-12-28 16:02:41,559 - INFO - Completed successfully
+2025-12-28 16:55:52,768 - INFO - Creating Vendor Summary Table...
+2025-12-28 16:55:52,770 - INFO - Vendor summary created in 0.0 seconds
+2025-12-28 16:55:52,770 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost]
+Index: []
+2025-12-28 16:55:52,770 - INFO - Cleaning Data...
+2025-12-28 16:55:52,771 - INFO - Empty DataFrame
+Columns: [VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost, GrossProfit, ProfitMargin, StockTurnover, SalesToPurchaseRatio]
+Index: []
+2025-12-28 16:55:52,771 - INFO - Ingesting data...
+2025-12-28 16:55:52,772 - INFO - Completed successfully
+2025-12-28 16:59:41,819 - INFO - Ingesting purchases.csv in db
+2025-12-28 16:59:54,050 - INFO - Ingesting purchase_prices.csv in db
+2025-12-28 16:59:54,099 - INFO - Ingesting vendor_invoice.csv in db
+2025-12-28 16:59:54,216 - INFO - Ingesting begin_inventory.csv in db
+2025-12-28 16:59:54,968 - INFO - Ingesting end_inventory.csv in db
+2025-12-28 17:00:02,715 - INFO - Ingesting sales.csv in db
+2025-12-28 17:01:32,676 - INFO - Ingestion Completeed Successfully
+2025-12-28 17:01:32,686 - INFO - 
+Total time taken: 1.8763702313105266 minutes
