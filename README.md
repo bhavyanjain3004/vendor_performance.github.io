@@ -1,5 +1,5 @@
 # 📦 Vendor Inventory, Sales & Performance Analytics
-[https://github.com/bhavyanjain3004/vendor_performance.github.io/blob/main/vendor_performance_analysis.ipynb](data_analysis)
+[https://github.com/bhavyanjain3004/vendor_performance.github.io/blob/main/vendor_performance_analysis.ipynb]([data_analysis)](https://github.com/bhavyanjain3004/vendor_performance.github.io/blob/main/data_analysis)
 ## 📌 Executive Summary
 
 This project implements an **end-to-end analytics pipeline** to evaluate **vendor performance, inventory efficiency, procurement concentration, and profitability** using large-scale transactional data.
